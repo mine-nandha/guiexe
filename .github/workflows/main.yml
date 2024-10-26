@@ -44,4 +44,4 @@ jobs:
           name: build-artifacts
           path: |
             target/guidemo-0.0.1-SNAPSHOT.jar
-            target/gui.exe
+            target/guiexe.exe
